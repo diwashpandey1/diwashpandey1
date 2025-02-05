@@ -1,6 +1,6 @@
 <p align="left">Hi, I'm Diwash Pandey, a passionate Full Stack Developer specializing in React.js, JavaScript, and Python. Currently pursuing a BCA (2nd Year) with a minor in AI & Data Science, I love building interactive web applications and integrating AI to create smart solutions.<br><br>💼 Projects:<br><br>Expense Tracker App (with AI insights)<br>To-Do List<br>Basic Chatbots using APIs<br>💡 Tech Stack: React.js | Vite | JavaScript | Python | C++ | Java | HTML | CSS | Power BI | NumPy | Pandas<br><br>🌱 Currently learning: Backend Development & AI/ML<br>🎯 Goal: Building AI-driven web applications<br><br>📫 Let’s connect: diwashpandey999@gmail.com</p>
 
-###
+### My Basic Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+### My Social Media
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="me.png"  />
 </div>
 
 ###
