@@ -23,7 +23,7 @@
   <li>💰 <strong>Expense Tracker App</strong> (with AI insights)</li>
   <li>📅 <strong>To-Do List</strong> (with Firebase Auth & Hosting)</li>
   <li>🧠 <strong>Chatbots</strong> using APIs</li>
-  <li>📻 <strong>WebRTC Walkie-Talkie App</strong> (In Progress)</li>
+  <li>📻 <strong>Chat App</strong></li>
 </ul>
 
 ###
