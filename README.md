@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=DIWASH+PANDEY;FULL+STACK+DEVELOPER;AI+%2F+ML+ENTHUSIAST;CREATIVE+ENGINEER" alt="Diwash Pandey Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diwashpandey1.diwashpandey1&color=dc2626&style=flat-square" alt="Visitor Badge" />
-</p>
+<img src="https://github.com/diwashpandey1/diwashpandey1/diwash_pandey_picture_portfolio.png"/>
 
 ---
 
@@ -34,6 +32,9 @@ I am a **Full Stack Developer** and **BCA Honours** student specializing in **Ar
 ---
 
 ### 📈 SYSTEM_STATS
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diwashpandey1.diwashpandey1&color=dc2626&style=flat-square" alt="Visitor Badge" />
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diwashpandey1&show_icons=true&theme=transparent&title_color=dc2626&text_color=ffffff&icon_color=dc2626&hide_border=true" height="150" alt="Diwash Pandey GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwashpandey1&layout=compact&theme=transparent&title_color=dc2626&text_color=ffffff&hide_border=true" height="150" alt="Diwash Pandey Top Languages" />
