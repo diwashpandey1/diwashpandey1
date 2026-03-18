@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=DIWASH+PANDEY;FULL+STACK+DEVELOPER;AI+%2F+ML+ENTHUSIAST;CREATIVE+ENGINEER" alt="Diwash Pandey Typing SVG" />
 </h1>
 
-<img src="https://github.com/diwashpandey1/diwashpandey1/diwash_pandey_picture_portfolio.png"/>
+<img align="right" height="200" src="https://diwashpandey1.github.io/images/diwash-pandey-github-profile.png" alt="Diwash Pandey - Full Stack & AI/ML Developer" />
 
 ---
 
