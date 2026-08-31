@@ -1,251 +1,139 @@
 <div align="center">
 
-<img src="./diwash-pandey-github-profile.png" width="180" alt="Diwash Pandey"/>
+<img src="./diwash-pandey-github-profile.png" width="180" alt="Diwash Pandey" style="border-radius:50%"/>
 
-# Diwash Pandey
+# Hi, I'm Diwash 👋
 
-### Full-Stack Developer · AI/ML Enthusiast · Software Builder
+### Full-Stack Developer · Building at the intersection of web apps and applied ML
 
-**Building practical software at the intersection of web development and artificial intelligence.**
+BCA student majoring in Full-Stack Development, with AI/ML as a minor.
+I build and ship complete applications — frontend, backend, database, and deployment — and bring the same end-to-end mindset to machine learning.
 
 <br/>
 
-<a href="https://diwashpandey.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/diiwashhh7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/diiwashhh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://diwashpandey.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diiwashhh7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/diiwashhh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
----
-
-## 👋 About Me
-
-I'm **Diwash Pandey**, a BCA student specializing in **Full-Stack Development**, with **Artificial Intelligence & Machine Learning as my minor**.
-
-I enjoy building complete applications — from frontend interfaces and backend services to databases, APIs, deployment, and intelligent systems.
-
-I'm especially interested in creating **services and products that solve meaningful problems and contribute positively to society**.
-
-I learn by building, experimenting, and understanding the technology underneath what I use.
-
-> **Learn the fundamentals. Build real things. Understand what happens underneath.**
-
----
-
-## ⚡ What I Do
-
-<div align="center">
-
-### 🌐 Full-Stack Development
-
-Building responsive web applications, backend services, APIs, and database-driven systems.
-
 <br/>
 
-### 🤖 Artificial Intelligence
+## 🚀 Projects
 
-Exploring machine learning and computer vision to build practical intelligent applications.
-
-<br/>
-
-### 🧠 Problem Solving
-
-Breaking down complex problems, learning unfamiliar technologies quickly, and turning ideas into working solutions.
-
-</div>
-
----
-
-## 🛠️ Tech I Work With
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
-
-<br/><br/>
-
-### Full-Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
-
-<br/><br/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-<br/>
-
-`Machine Learning` · `NumPy` · `Pandas`
-
-<br/><br/>
-
-### Databases & Backend Services
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
-
-<br/><br/>
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-
-<br/>
-
-`REST APIs` · `Git Workflows` · `Deployment`
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📋 CloudClipboard
-
-**A simple cloud-based clipboard for accessing text across devices.**
+A cross-device clipboard for moving text between devices — no email, no chat app, no USB drive. Built to fix a small, real problem I hit often.
 
 `JavaScript` `Firebase`
+**[↗ Live](https://clp7cloud.web.app)**
 
-[**Live Application →**](https://clp7cloud.web.app)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 💰 Expense Tracker
-
-**A web application for managing and tracking personal expenses.**
+A personal finance web app for logging and reviewing expenses — built to actually replace the spreadsheet I was using before it.
 
 `JavaScript` `Firebase`
+**[↗ Live](https://expense-tracker-e0f0.web.app)**
 
-[**Live Application →**](https://expense-tracker-e0f0.web.app)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🛡️ Spam Detector
+A machine learning app that classifies text as spam or not — shipped as a working web app, not left as a notebook.
 
----
+`Python` `Machine Learning`
+**[↗ Live](https://aivora.web.app)**
 
-## 🤖 AI / ML Projects
-
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 Sentiment Analyzer
-
 Text sentiment classification using machine learning.
 
-`Python` · `Machine Learning`
+`Python` `Machine Learning`
+**Source in my repositories**
 
-**Source available in my repositories**
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🛡️ Spam Detector
+## 🛠️ Stack
 
-A machine-learning application for identifying spam content.
+<div align="center">
 
-`Python` · `Machine Learning`
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
+<br/><sub>Languages</sub>
+<br/><br/>
 
-[**Live Application →**](https://aivora.web.app)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+<br/><sub>Full-Stack</sub>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+<br/><sub>AI / ML — Machine Learning · NumPy · Pandas</sub>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase" />
+<br/><sub>Databases & Backend</sub>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<br/><sub>Tools — REST APIs · Deployment</sub>
 
 </div>
 
----
+<br/>
 
-## 📚 Currently Learning
+## 🎯 Currently Focused On
 
-I'm moving from simply **using technologies** toward understanding how to **design and build systems with them**.
+```text
+🔧 Backend depth      → architecture, APIs, database design beyond CRUD
+🤖 Applied ML         → moving from using models to understanding them
+🧠 Engineering skill  → deployment workflows, DSA, maintainable code
+```
 
-**01 — Full-Stack Engineering**
-Deepening my understanding of backend architecture, APIs, databases, and application structure.
+Long-term, I want to work at the intersection of **software engineering and AI** — building products people actually use.
 
-**02 — Artificial Intelligence**
-Strengthening my foundations in machine learning and exploring practical AI applications.
-
-**03 — Engineering Practices**
-Improving development workflows, deployment, collaboration, and writing maintainable software.
-
-**04 — Problem Solving**
-Continuously improving my Data Structures & Algorithms and ability to break down complex problems.
-
----
-
-## 🎯 What I'm Working Toward
-
-My goal is to become a strong **software engineer capable of taking a problem from an idea to a working product**.
-
-I'm particularly interested in:
-
-**Software Engineering × Artificial Intelligence × Product Development**
-
-Rather than simply collecting technologies, I want to develop the depth required to design systems, make good engineering decisions, and build software that people can genuinely use.
-
-In the long term, I want to work on **services and products that create meaningful value for people and contribute positively to mankind.**
-
----
+<br/>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=diwashpandey1&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwashpandey1&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=diwashpandey1&theme=transparent&hide_border=true" height="165"/>
 
 </div>
 
----
-
-## 🌱 Beyond Code
-
-I believe becoming a good engineer is about more than knowing frameworks.
-
-I'm continuously working on **how I think, learn, communicate, collaborate, and approach problems**.
-
-Technology changes quickly. The ability to **learn, adapt, and understand fundamentals** lasts much longer.
-
----
-
-## 🤝 Let's Connect
+<br/>
 
 <div align="center">
 
-If you're interested in **software engineering, AI/ML, open source, or building useful products**, feel free to connect.
+## 🤝 Let's Connect
 
-<br/>
-
-<a href="https://diwashpandey.com">
-<img src="https://img.shields.io/badge/🌐_Portfolio-diwashpandey.com-111111?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/diiwashhh7/">
-<img src="https://img.shields.io/badge/LinkedIn-Diwash_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/diiwashhh/">
-<img src="https://img.shields.io/badge/LeetCode-diiwashhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://diwashpandey.com"><img src="https://img.shields.io/badge/🌐_Portfolio-diwashpandey.com-111111?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/diiwashhh7/"><img src="https://img.shields.io/badge/LinkedIn-Diwash_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/diiwashhh/"><img src="https://img.shields.io/badge/LeetCode-diiwashhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
 📧 **[diwashpandey999@gmail.com](mailto:diwashpandey999@gmail.com)**
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### *Build. Learn. Understand. Repeat.*
+<sub>Build. Learn. Understand. Repeat.</sub>
 
 </div>
